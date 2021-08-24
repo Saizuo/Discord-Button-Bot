@@ -1,6 +1,6 @@
 # Discord-Button-Bot
 
-<a href="https://replit.com/@MashimasHeros/Saizuo-AMOGUS-1?v=1">Fork Me Rn, Dont be Dumb Dumb and Download Files</a>
+<a href="https://replit.com/@MashimasHeros/Saizuo-AMOGUS-1?v=1">Click On This Link To Fork The Bot</a>
 
 <h2> Make 2 Client Secrets </h2>
 <h3> BOT_TOKEN </h3>
