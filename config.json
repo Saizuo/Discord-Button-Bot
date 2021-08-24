@@ -1,0 +1,18 @@
+{
+  "default_prefix": "a!",
+  "owners": ["532177714203852800"],
+  "ownerID": ["532177714203852800"],
+  "timeout": 300000,
+  "invite_link": "https://discord.com/api/oauth2/authorize?client_id=848241806651031624&permissions=8&scope=bot",
+  "error_logs": "870562796675424276",
+  "success_logs": "870562798143418379",
+  "disable_fetching": false,
+  
+  "Giveaway_Options": {
+    "giveawayManagerID": "",
+    "giveawayRoleID": "",
+    "giveawayMention": false,
+    "showMention": true,
+    "hostedBy": true
+    }
+}

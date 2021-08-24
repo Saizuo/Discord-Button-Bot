@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-custom-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "K2K2FF",
+  "license": "ISC",
+  "dependencies": {
+    "@weky/inlinereply": "0.0.0",
+    "ascii-table": "0.0.9",
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0",
+    "discord-embeds-pages-buttons": "^1.2.5",
+    "discord-math": "^1.0.5",
+    "discord.js": "^12.5.1",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.2",
+    "node-fetch": "^2.6.1",
+    "valid-url": "^1.0.9",
+    "weky": "^3.1.2"
+  }
+}
